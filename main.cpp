@@ -23,6 +23,7 @@ int main(int argc, char** argv) {
     cout << "oui" << endl;
     cout << "non" << endl;
     cout << "Modification d'un dépôt distant" << endl;
+    cout << "Ce que je veux..." << endl;
     return 0;
 }
 

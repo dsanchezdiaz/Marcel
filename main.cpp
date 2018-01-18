@@ -22,6 +22,7 @@ using namespace std;
 int main(int argc, char** argv) {
     cout << "oui" << endl;
     cout << "non" << endl;
+    cout << "Ce que je veux..." << endl;
     return 0;
 }
 
